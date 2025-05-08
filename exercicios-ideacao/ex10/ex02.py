@@ -4,3 +4,4 @@ n3 = int(input('Digite o terceiro valor: '))
 
 print(n1+n2+n3)
 print((n1+n2+n3)/3)
+print(n1*n2*n3)
