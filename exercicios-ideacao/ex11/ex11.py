@@ -1,6 +1,7 @@
 clientes = 0
 clientePos = 0
 clienteNeg = 0
+saldo_agencia = 0
 nomes_positivos = []
 nomes_negativos = []
 
@@ -12,6 +13,7 @@ while clientes < 10000:
     
     nome = str(input("Digite seu nome: "))
     saldo = float(input("Digite seu saldo: "))
+    saldo_agencia += saldo
     clientes += 1
     
     
@@ -33,6 +35,7 @@ if nomes_negativos == []:
       nomes_negativos.append("Nenhum cliente negativo")
 
 print("A agencia tem um total de {} clientes".format(clientes))
+print("O saldo da agencia é de {}".format(saldo_agencia))
 print("Existe um total de {} clientes positivos e {} clientes negativos".format(clientePos, clienteNeg))
 print("Os clientes positivos: {}".format(nomes_positivos))
 print("Os clientes negativos: {}".format(nomes_negativos))
