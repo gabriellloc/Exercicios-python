@@ -32,6 +32,7 @@ if nomes_positivos == []:
 if nomes_negativos == []:
       nomes_negativos.append("Nenhum cliente negativo")
 
+print("A agencia tem um total de {} clientes".format(clientes))
 print("Existe um total de {} clientes positivos e {} clientes negativos".format(clientePos, clienteNeg))
 print("Os clientes positivos: {}".format(nomes_positivos))
 print("Os clientes negativos: {}".format(nomes_negativos))
