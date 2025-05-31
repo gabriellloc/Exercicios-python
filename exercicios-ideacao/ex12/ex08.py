@@ -1,6 +1,6 @@
-# for i in range(10):
-#     num = int(input("Digite um valor: "))
-#     print(num**2)
+for i in range(10):
+    num = int(input("Digite um valor: "))
+    print(num**2)
 
 #Dois modelos de responder
 
