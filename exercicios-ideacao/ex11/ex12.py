@@ -14,15 +14,15 @@ if div == 0:
     divisiveis += 1
 
 if num > 0:
-    while num > 0:
+    while True:
         num = int(input("Digite um valor: "))
-        if num < 0:
+        if num <= 0:
             break
         quant += 1
         div = num%6
-        lista.append(num)
         if div == 0:
             divisiveis += 1
+        lista.append(num)
         soma = sum(lista)
         media = soma/quant
 
@@ -32,6 +32,5 @@ if num > 0:
     print("Existe {} números divisiveis por 6".format(divisiveis))
     print("A média entre os valores é {:.1f}".format(media))
     print("Fim do programa.")
-
 else:
     print("Fim do programa. Digite um valor maior que 0.")
