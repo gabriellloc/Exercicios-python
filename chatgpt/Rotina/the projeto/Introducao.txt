@@ -1,0 +1,8 @@
+Projeto Final (escolha 1 ou mais):
+To-do list com salvamento em arquivo
+
+Conversor de moedas com API
+
+Jogo de adivinhação com placar
+
+Script para automatizar organização de arquivos

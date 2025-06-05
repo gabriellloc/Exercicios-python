@@ -1,0 +1,17 @@
+Meta: Consolidar os conhecimentos aplicando em um mini projeto.
+
+Conteúdo:
+    Boas práticas de código (PEP8, docstrings, comentários)
+
+    Revisão dos tópicos anteriores
+
+    Introdução a bibliotecas conforme o interesse:
+
+    Análise de dados: pandas, matplotlib
+
+    Web: flask, requests
+
+    Automação: os, shutil, time
+
+    Testes: unittest
+
