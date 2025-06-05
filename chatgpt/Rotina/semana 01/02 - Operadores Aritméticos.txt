@@ -1,0 +1,24 @@
+Operadores Aritméticos
+
+| Operador | Descrição       | Exemplo (a = 10, b = 3)     |
+| -------- | --------------- | --------------------------- |
+| +        | Soma            | a + b → 13                  |
+| -        | Subtração       | a - b → 7                   |
+| *        | Multiplicação   | a * b → 30                  |
+| /        | Divisão (float) | a / b → 3.33...             |
+| //       | Divisão inteira | a // b → 3                  |
+| %        | Módulo (resto)  | a % b → 1                   |
+| **       | Potência        | a ** b → 1000               |
+
+
+Operadores Relacionais
+    Usados para comparar valores (retornam True ou False).
+
+| Operador | Significado    | Exemplo ( a = 10 ,  b = 3 ) |
+| -------- | -------------- | --------------------------- |
+|  ==      | Igual a        |  a == b → False             |
+|  !=      | Diferente de   |  a != b → True              |
+|  >       | Maior que      |  a > b → True               |
+|  <       | Menor que      |  a < b → False              |
+|  >=      | Maior ou igual |  a >= b → True              |
+|  <=      | Menor ou igual |  a <= b → False             |
