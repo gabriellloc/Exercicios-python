@@ -1,0 +1,11 @@
+Estruturas Condicionais
+    Permitem tomar decisões no seu programa com base em condições.
+
+Sintaxe:
+
+    if condição:
+        # bloco executado se for verdadeiro
+    elif outra_condição:
+        # bloco alternativo
+    else:
+        # bloco final se nenhuma condição for satisfeita
