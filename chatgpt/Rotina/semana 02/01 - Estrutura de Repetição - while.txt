@@ -1,0 +1,14 @@
+Estrutura de Repetição – while  
+
+Conceitos:
+    Executa um bloco enquanto a condição for True
+
+Sintaxe:
+    while #condição :
+        #bloco de comando
+
+Exemplo:
+    contador = 0
+    while contador < 5:
+        print("Contador:", contador)
+        contador += 1
