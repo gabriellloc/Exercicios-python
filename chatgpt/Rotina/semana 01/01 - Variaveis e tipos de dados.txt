@@ -1,6 +1,5 @@
 Variaveis, tipos de dados
 
-
 Variáveis - São “caixas” onde você guarda valores.
     Exemplo:
         #nome = "João"
@@ -8,13 +7,16 @@ Variáveis - São “caixas” onde você guarda valores.
         #altura = 1.75
 
 Dados possiveis:
-    int : 
-    float : 
-    str : 
-    bool : 
+    int - Serve para números inteiros
+    float - Números com casas decimais
+    str - Texto (string)
+    bool - Booleano (True/False)
 
 Atribuição de variáveis
-type() :
-input() : 
-str() : 
-int() : 
+type() - Voce utiliza para verificar o tipo da variavel.
+    Exemplo: 
+        print(type(idade))
+
+input() - Voce utiliza para receber um valor do usuario.
+    Exemplo:
+        var = input("Qual o seu nome")
