@@ -1,0 +1,12 @@
+Meta: Entender como armazenar e manipular coleções de dados.
+
+Conteúdo:
+    Listas, Tuplas, Conjuntos e Dicionários
+
+    Laços de repetição (for, while)
+
+    Compreensões de listas
+
+    Manipulação de strings
+    
+    Funções built-in úteis: range(), enumerate(), zip(), len(), map(), filter()
