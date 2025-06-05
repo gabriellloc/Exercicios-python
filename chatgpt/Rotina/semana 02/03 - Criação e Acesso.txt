@@ -1,0 +1,24 @@
+Criacao e Acesso
+
+Conceito
+Uma lista (list) em Python armazena vários valores em uma única variável. Você pode acessar, alterar, adicionar e remover itens.
+
+Criando listas
+    frutas = ["maçã", "banana", "uva"]
+
+
+Acessando elementos
+    print(frutas[0])
+    print(frutas[1])
+
+!Lembre: a contagem começa do zero!
+
+Modificando a lista
+    frutas[1] = "laranja"       # troca "banana" por "laranja"
+    frutas.append("melancia")   # adiciona ao final
+
+
+Outras operações úteis
+    len(frutas)        # quantidade de itens
+    "uva" in frutas    # True (verifica se está na lista)
+
