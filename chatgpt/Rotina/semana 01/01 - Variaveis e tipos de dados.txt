@@ -1,0 +1,20 @@
+Variaveis, tipos de dados
+
+
+Variáveis - São “caixas” onde você guarda valores.
+    Exemplo:
+        #nome = "João"
+        #idade = 25
+        #altura = 1.75
+
+Dados possiveis:
+    int : 
+    float : 
+    str : 
+    bool : 
+
+Atribuição de variáveis
+type() :
+input() : 
+str() : 
+int() : 
