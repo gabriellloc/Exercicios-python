@@ -1,0 +1,10 @@
+Meta: Trabalhar com arquivos, módulos e tratamento de erros.
+
+Conteúdo:
+    Importar módulos (math, random, datetime, etc.)
+
+    Criar seus próprios módulos
+
+    Leitura e escrita de arquivos (open, .read(), .write())
+
+    Blocos try, except, finally
