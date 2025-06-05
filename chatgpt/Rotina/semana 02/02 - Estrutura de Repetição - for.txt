@@ -1,7 +1,10 @@
 Estrutura de Repetição – for com range()
 
+O for é usado para repetir algo um número conhecido de vezes ou percorrer itens de uma sequência (lista, string, etc.).
+
 Conceitos:
-Itera sobre sequências
+    Itera sobre sequências
+    range(início, fim, passo)
 
 Sintaxe:
     for i in range(#quantas vezes vai repetir)
