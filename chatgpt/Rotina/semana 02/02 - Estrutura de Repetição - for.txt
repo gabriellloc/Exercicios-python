@@ -1,0 +1,12 @@
+Estrutura de Repetição – for com range()
+
+Conceitos:
+Itera sobre sequências
+
+Sintaxe:
+    for i in range(#quantas vezes vai repetir)
+        #bloco de repetição
+
+Exemplo:
+    for i in range(1, 6):
+        print(f"{i} x 2 = {i * 2}")
