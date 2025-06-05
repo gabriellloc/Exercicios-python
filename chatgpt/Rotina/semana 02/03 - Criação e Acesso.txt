@@ -22,3 +22,12 @@ Outras operações úteis
     len(frutas)        # quantidade de itens
     "uva" in frutas    # True (verifica se está na lista)
 
+
+
+Percorrendo Listas com for
+
+Estrutura basica 
+    frutas = ["maçã", "banana", "uva"]
+
+    for fruta in frutas:
+        print("Fruta:", fruta)
