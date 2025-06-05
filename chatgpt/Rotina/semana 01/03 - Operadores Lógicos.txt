@@ -1,0 +1,24 @@
+Operadores Lógicos
+    Usados para combinar condições.
+
+| Operador | Exemplo         | Resultado                               |
+| -------- | --------------- | --------------------------------------- |
+| `and`    | `True and True` | `True` (verdadeiro **e** verdadeiro)    |
+| `or`     | `True or False` | `True` (verdadeiro **ou** falso)        |
+| `not`    | `not True`      | `False` (negação: o contrário do valor) |
+
+
+Funções em Python
+    Funções são blocos de código reutilizáveis.
+
+    Sintaxe:
+        def nome_da_funcao(parâmetros):
+            # bloco de código
+            return resultado
+
+    Exemplo:
+        def saudacao(nome):
+            return f"Olá, {nome}!"
+
+        mensagem = saudacao("Maria")
+        print(mensagem)
