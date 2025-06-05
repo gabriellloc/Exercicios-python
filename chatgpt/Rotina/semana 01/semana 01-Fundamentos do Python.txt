@@ -1,0 +1,9 @@
+Meta: Compreender a sintaxe básica e os principais tipos de dados.
+
+Variáveis, Tipos de Dados (int, float, str, bool)
+
+Operadores (aritméticos, relacionais, lógicos)
+
+Estruturas Condicionais (if, elif, else)
+
+Funções (def, parâmetros, retorno)
