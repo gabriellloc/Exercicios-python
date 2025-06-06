@@ -1,4 +1,4 @@
-sequencia = ["primeira"]
+sequencia = ["primeira", "segunda"]
 
 cidade = []
 numero_veiculos = []
@@ -26,4 +26,4 @@ print(f"A média de acidentes das cidades é igual a {media:.2f}")
 for posi_cid, cid in enumerate(cidade):
     if numero_veiculos[posi_cid] < 2000:
         media_veiculosAci = numero_veiculos[posi_cid]/acidentes[posi_cid]
-        print(f"A média de veiculos por acidentes é {media_veiculosAci}")
+        print(f"A média de veiculos por acidentes é {media_veiculosAci:.2f} da cidade {cid}")
