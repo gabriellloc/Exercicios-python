@@ -8,8 +8,8 @@ nomes_negativos = []
 while clientes < 10000:
     conta = int(input("Digite o número da conta: "))
     if conta == -999:
-                print("Fim do programa")
-                break
+        print("Fim do programa")
+        break
     
     nome = str(input("Digite seu nome: "))
     saldo = float(input("Digite seu saldo: "))
