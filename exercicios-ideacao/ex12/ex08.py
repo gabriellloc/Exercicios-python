@@ -19,6 +19,10 @@ for pos, indice in enumerate(acidentes):
         time.sleep(1)
         print(f"O maior índice de acidentes é {maior_indice} e pertece a cidade {cidade[pos]}")
 
+for pos, indice in enumerate(acidentes):
+    if indice == menor_indice:
+        time.sleep(1)
+        print(f"O menor índice de acidentes é {menor_indice} e pertece a cidade {cidade[pos]}")
 
 soma = sum(numero_veiculos)
 div = len(numero_veiculos)
